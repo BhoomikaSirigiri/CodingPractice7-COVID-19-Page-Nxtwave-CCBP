@@ -1,0 +1,20 @@
+.covid {
+    font-weight: 500;
+    color: blue;
+}
+
+.container {
+    margin: 2px;
+    border-radius: 10px;
+}
+
+.a {
+    background-color: #0967d2;
+    border-radius: 2px;
+}
+
+.col-3 {
+    padding: 15px;
+    padding-left: 20px;
+    border-radius: 15px;
+}
